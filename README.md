@@ -8,3 +8,5 @@ A Simple Calculator App built with Pure Javascript.
 ## Why ?
 
 To brush up the Javascript basics.
+
+## [Demo](https://jonesxavi.github.io/JS-Series-Calc-App/)
