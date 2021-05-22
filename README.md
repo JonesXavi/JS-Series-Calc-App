@@ -3,7 +3,7 @@
 
 ## What ?
 
-A Simple Calculator App built with Pure Javascript. 
+A Simple Calculator App built with Pure Javascript and Grid CSS.
 
 ## Why ?
 
